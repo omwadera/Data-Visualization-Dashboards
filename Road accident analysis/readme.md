@@ -2,6 +2,8 @@
 
 ---
 
+![Dashboard](https://github.com/omwadera/Data-Visualization-Dashboards/blob/main/Road%20accident%20analysis/road_accident_dashboard_image_1.png)
+
 ### Road Accident Dashboard
 
 This repository contains the implementation for a Road Accident Dashboard for the years 2021 and 2022. The dashboard provides insights into road accidents, including key performance indicators (KPIs) such as total accidents, casualties by vehicle type, and monthly trends. It is built using Power BI and leverages various functionalities for data processing, modeling, and visualization.
@@ -45,10 +47,6 @@ The stakeholders involved in the project include:
 - Traffic Management Agencies
 - Public
 - Media
-
-### Dashboard Images
-
-![Dashboard](https://github.com/omwadera/Data-Visualization-Dashboards/blob/main/Road%20accident%20analysis/road_accident_dashboard_image_1.png)
 
 ### Conclusion
 
