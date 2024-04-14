@@ -37,7 +37,7 @@ Welcome to my Data Visualization Dashboards Portfolio! This portfolio showcases 
 - User authentication system for data security.
 - Compatibility with web browsers and mobile devices.
 
-[![HR Dashboard](https://github.com/omwadera/Data-Visualization-Dashboards/blob/main/HR_Dashboard-Tableau--main/image_hr_dashboard.png)](https://github.com/omwadera/Data-Visualization-Dashboards/tree/main/Finance%20Project%20_%20Bank%20Analysis)
+[![HR Dashboard](https://github.com/omwadera/Data-Visualization-Dashboards/blob/main/HR_Dashboard-Tableau--main/image_hr_dashboard.png)](https://github.com/omwadera/Data-Visualization-Dashboards/tree/main/HR_Dashboard-Tableau--main)
 
 ---
 
