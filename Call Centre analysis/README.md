@@ -56,7 +56,7 @@ The dashboard fulfills the following requirements outlined by the stakeholders:
 - Vertical menu bar with icons for home, menu, reports, settings, and filters.
 - Filters for date range, channel type, and city.
 
-[![Page 1 Image]](https://github.com/omwadera/Data-Visualization-Dashboards/blob/main/Call%20Centre%20analysis/image_dashboard/Powerbi_file_page-0001.jpg)
+[![Page 1 Image](https://github.com/omwadera/Data-Visualization-Dashboards/blob/main/Call%20Centre%20analysis/image_dashboard/Powerbi_file_page-0001.jpg)](https://github.com/omwadera/Data-Visualization-Dashboards/blob/main/Call%20Centre%20analysis/image_dashboard/Powerbi_file_page-0001.jpg)
 
 ### Page 2: Call Centre Dashboard Grid
 
@@ -71,7 +71,7 @@ The dashboard fulfills the following requirements outlined by the stakeholders:
 - Main section features a grid or table with columns including date, ID#, channel, customer name, nature of call, reception queue, response time, and total call duration.
 - Each row represents different call records with relevant metrics.
 
-[![Page 2 Image]](https://github.com/omwadera/Data-Visualization-Dashboards/blob/main/Call%20Centre%20analysis/image_dashboard/Powerbi_file_page-0002.jpg)
+[![Page 2 Image](https://github.com/omwadera/Data-Visualization-Dashboards/blob/main/Call%20Centre%20analysis/image_dashboard/Powerbi_file_page-0002.jpg)](https://github.com/omwadera/Data-Visualization-Dashboards/blob/main/Call%20Centre%20analysis/image_dashboard/Powerbi_file_page-0002.jpg)
 
 ### Conclusion
 
