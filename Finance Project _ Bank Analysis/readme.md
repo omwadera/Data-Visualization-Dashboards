@@ -41,7 +41,7 @@ This repository contains the implementation for three dashboards aimed at provid
 #### Loan Status Grid View
 - Provides insights into metrics such as 'Total Loan Applications,' 'Total Funded Amount,' 'Total Amount Received,' 'Month-to-Date (MTD) Funded Amount,' 'MTD Amount Received,' 'Average Interest Rate,' and 'Average Debt-to-Income Ratio (DTI).'
 
-![Dashboard 1 Image](Link_to_Dashboard_1_Image)
+![Dashboard 1 Image](https://github.com/omwadera/Data-Visualization-Dashboards/blob/main/Finance%20Project%20_%20Bank%20Analysis/Images/Picture1.png)
 
 ---
 
@@ -60,7 +60,7 @@ This repository contains the implementation for three dashboards aimed at provid
 - 'Total Funded Amount'
 - 'Total Amount Received'
 
-![Dashboard 2 Image](Link_to_Dashboard_2_Image)
+![Dashboard 2 Image](https://github.com/omwadera/Data-Visualization-Dashboards/blob/main/Finance%20Project%20_%20Bank%20Analysis/Images/Picture2.png)
 
 ---
 
@@ -71,7 +71,7 @@ This repository contains the implementation for three dashboards aimed at provid
 - Enables users to access critical information efficiently.
 - Offers insights into loan portfolio, borrower profiles, and loan performance.
 
-![Dashboard 3 Image](Link_to_Dashboard_3_Image)
+![Dashboard 3 Image](https://github.com/omwadera/Data-Visualization-Dashboards/blob/main/Finance%20Project%20_%20Bank%20Analysis/Images/Picture3.png)
 
 ---
 
