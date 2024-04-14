@@ -48,9 +48,7 @@ The stakeholders involved in the project include:
 
 ### Dashboard Images
 
-![Dashboard 1](Link_to_Dashboard_1_Image)
-![Dashboard 2](Link_to_Dashboard_2_Image)
-![Dashboard 3](Link_to_Dashboard_3_Image)
+![Dashboard](https://github.com/omwadera/Data-Visualization-Dashboards/blob/main/Road%20accident%20analysis/road_accident_dashboard_image_1.png)
 
 ### Conclusion
 
