@@ -24,7 +24,7 @@ Welcome to my Data Visualization Dashboards Portfolio! This portfolio showcases 
 - Visual representations of total calls, response time, and call distribution.
 - Navigation and filters for user-friendly exploration.
 
-[![Call Centre Dashboard](https://github.com/omwadera/Data-Visualization-Dashboards/blob/main/Call%20Centre%20analysis/image_dashboard/Powerbi_file_page-0001.jpg)](https://github.com/omwadera/Data-Visualization-Dashboards/blob/main/Call%20Centre%20analysis/image_dashboard/Powerbi_file_page-0001.jpg)
+[![Call Centre Dashboard](https://github.com/omwadera/Data-Visualization-Dashboards/blob/main/Call%20Centre%20analysis/image_dashboard/Powerbi_file_page-0001.jpg)](https://github.com/omwadera/Data-Visualization-Dashboards/blob/main/Call%20Centre%20analysis/Call%20Centre%20Dashboard.md)
 
 ---
 
@@ -37,7 +37,7 @@ Welcome to my Data Visualization Dashboards Portfolio! This portfolio showcases 
 - User authentication system for data security.
 - Compatibility with web browsers and mobile devices.
 
-![HR Dashboard](https://github.com/Shraddha0321/HR_Dashboard-Tableau-/assets/69896482/906e8cf3-7487-4c79-8719-82f9e292c3e7)
+[![HR Dashboard](https://github.com/Shraddha0321/HR_Dashboard-Tableau-/assets/69896482/906e8cf3-7487-4c79-8719-82f9e292c3e7)](https://github.com/Shraddha0321/HR_Dashboard-Tableau-/HR_Dashboard.md)
 
 ---
 
@@ -50,7 +50,7 @@ Welcome to my Data Visualization Dashboards Portfolio! This portfolio showcases 
 - Overview dashboard with regional analysis, loan term analysis, and more.
 - Details dashboard providing a consolidated view of essential loan-related metrics.
 
-![Finance Project - Bank Loan Analysis](https://github.com/omwadera/Data-Visualization-Dashboards/blob/main/Finance%20Project%20_%20Bank%20Analysis/Images/Bank_Loan_Analysis_page-0001.jpg)
+[![Finance Project - Bank Loan Analysis](https://github.com/omwadera/Data-Visualization-Dashboards/blob/main/Finance%20Project%20_%20Bank%20Analysis/Images/Bank_Loan_Analysis_page-0001.jpg)](https://github.com/omwadera/Data-Visualization-Dashboards/blob/main/Finance%20Project%20_%20Bank%20Analysis/Bank%20Loan%20Analysis%20Dashboard.md)
 
 ---
 
@@ -63,7 +63,7 @@ Welcome to my Data Visualization Dashboards Portfolio! This portfolio showcases 
 - Stakeholder-specific requirements fulfillment.
 - Visual representation of road accident data for informed decision-making.
 
-![Road Accident Dashboard](https://github.com/omwadera/Data-Visualization-Dashboards/blob/main/Road%20accident%20analysis/road_accident_dashboard_image_1.png)
+[![Road Accident Dashboard](https://github.com/omwadera/Data-Visualization-Dashboards/blob/main/Road%20accident%20analysis/road_accident_dashboard_image_1.png)](https://github.com/omwadera/Data-Visualization-Dashboards/blob/main/Road%20accident%20analysis/Road%20Accident%20Dashboard.md)
 
 ---
 
